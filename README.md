@@ -1,4 +1,4 @@
 # shishir-demo
 This is my first Git repository.
 <br>
-Author - Shishir Kawa
+Author - Shishir Kawa (Apna College)
